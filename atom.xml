@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://margin.github.io</id>
     <title>Gridea</title>
-    <updated>2019-08-01T01:52:33.508Z</updated>
+    <updated>2019-08-01T01:57:14.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://margin.github.io"/>
     <link rel="self" href="https://margin.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://margin.github.io/images/avatar.png</logo>
     <icon>https://margin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[a test page]]></title>
+        <id>https://margin.github.io/post/a-test-page</id>
+        <link href="https://margin.github.io/post/a-test-page">
+        </link>
+        <updated>2019-08-01T01:52:53.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://margin.github.io/post-images/1564624394914.png" alt=""><br>
+测试页面</p>
+]]></content>
+    </entry>
 </feed>
